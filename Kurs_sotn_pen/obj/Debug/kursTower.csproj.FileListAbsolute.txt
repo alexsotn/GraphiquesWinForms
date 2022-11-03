@@ -1,0 +1,22 @@
+D:\Lannica's things\Desktop\ДонНТУ\6 семестр (III курс)\Курсачи\Графика\kursTower\kursTower\obj\Debug\kursTower.csprojAssemblyReference.cache
+D:\Lannica's things\Desktop\ДонНТУ\6 семестр (III курс)\Курсачи\Графика\kursTower\kursTower\obj\Debug\kursTower.Properties.Resources.resources
+D:\Lannica's things\Desktop\ДонНТУ\6 семестр (III курс)\Курсачи\Графика\kursTower\kursTower\obj\Debug\kursTower.csproj.GenerateResource.cache
+D:\Lannica's things\Desktop\ДонНТУ\6 семестр (III курс)\Курсачи\Графика\kursTower\kursTower\obj\Debug\kursTower.csproj.CoreCompileInputs.cache
+D:\Lannica's things\Desktop\ДонНТУ\6 семестр (III курс)\Курсачи\Графика\kursTower\kursTower\bin\Debug\kursTower.exe.config
+D:\Lannica's things\Desktop\ДонНТУ\6 семестр (III курс)\Курсачи\Графика\kursTower\kursTower\bin\Debug\kursTower.exe
+D:\Lannica's things\Desktop\ДонНТУ\6 семестр (III курс)\Курсачи\Графика\kursTower\kursTower\bin\Debug\kursTower.pdb
+D:\Lannica's things\Desktop\ДонНТУ\6 семестр (III курс)\Курсачи\Графика\kursTower\kursTower\obj\Debug\kursTower.CreateObject.resources
+D:\Lannica's things\Desktop\ДонНТУ\6 семестр (III курс)\Курсачи\Графика\kursTower\kursTower\obj\Debug\kursTower.MainForm.resources
+D:\Lannica's things\Desktop\ДонНТУ\6 семестр (III курс)\Курсачи\Графика\kursTower\kursTower\obj\Debug\kursTower.exe
+D:\Lannica's things\Desktop\ДонНТУ\6 семестр (III курс)\Курсачи\Графика\kursTower\kursTower\obj\Debug\kursTower.pdb
+C:\Users\user\Desktop\kursTower\kursTower\bin\Debug\kursTower.exe.config
+C:\Users\user\Desktop\kursTower\kursTower\bin\Debug\kursTower.exe
+C:\Users\user\Desktop\kursTower\kursTower\bin\Debug\kursTower.pdb
+C:\Users\user\Desktop\kursTower\kursTower\obj\Debug\kursTower.csprojAssemblyReference.cache
+C:\Users\user\Desktop\kursTower\kursTower\obj\Debug\kursTower.CreateObject.resources
+C:\Users\user\Desktop\kursTower\kursTower\obj\Debug\kursTower.MainForm.resources
+C:\Users\user\Desktop\kursTower\kursTower\obj\Debug\kursTower.Properties.Resources.resources
+C:\Users\user\Desktop\kursTower\kursTower\obj\Debug\kursTower.csproj.GenerateResource.cache
+C:\Users\user\Desktop\kursTower\kursTower\obj\Debug\kursTower.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\kursTower\kursTower\obj\Debug\kursTower.exe
+C:\Users\user\Desktop\kursTower\kursTower\obj\Debug\kursTower.pdb

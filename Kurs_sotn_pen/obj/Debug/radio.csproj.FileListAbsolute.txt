@@ -1,0 +1,33 @@
+C:\Users\Nikita\Desktop\Курсовой по графике радио\kursovaya\kursTower\bin\Debug\kursach.exe.config
+C:\Users\Nikita\Desktop\Курсовой по графике радио\kursovaya\kursTower\bin\Debug\kursach.exe
+C:\Users\Nikita\Desktop\Курсовой по графике радио\kursovaya\kursTower\bin\Debug\kursach.pdb
+C:\Users\Nikita\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\radio.CreateObject.resources
+C:\Users\Nikita\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\radio.MainForm.resources
+C:\Users\Nikita\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\kursach.Properties.Resources.resources
+C:\Users\Nikita\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\radio.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\radio.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\kursach.exe
+C:\Users\Nikita\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\kursach.pdb
+C:\Users\Nikita\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\radio.csprojAssemblyReference.cache
+C:\Users\t6846\Desktop\Курсовой по графике радио\kursovaya\kursTower\bin\Debug\kursach.exe.config
+C:\Users\t6846\Desktop\Курсовой по графике радио\kursovaya\kursTower\bin\Debug\kursach.exe
+C:\Users\t6846\Desktop\Курсовой по графике радио\kursovaya\kursTower\bin\Debug\kursach.pdb
+C:\Users\t6846\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\radio.csprojAssemblyReference.cache
+C:\Users\t6846\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\radio.CreateObject.resources
+C:\Users\t6846\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\radio.MainForm.resources
+C:\Users\t6846\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\kursach.Properties.Resources.resources
+C:\Users\t6846\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\radio.csproj.GenerateResource.cache
+C:\Users\t6846\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\radio.csproj.CoreCompileInputs.cache
+C:\Users\t6846\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\kursach.exe
+C:\Users\t6846\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\kursach.pdb
+C:\Users\t6846\Desktop\3 курс\финал\курсачи\Курсовой по графике радио — копия\kursovaya\kursTower\bin\Debug\kursach.exe.config
+C:\Users\t6846\Desktop\3 курс\финал\курсачи\Курсовой по графике радио — копия\kursovaya\kursTower\bin\Debug\kursach.exe
+C:\Users\t6846\Desktop\3 курс\финал\курсачи\Курсовой по графике радио — копия\kursovaya\kursTower\bin\Debug\kursach.pdb
+C:\Users\t6846\Desktop\3 курс\финал\курсачи\Курсовой по графике радио — копия\kursovaya\kursTower\obj\Debug\radio.csprojAssemblyReference.cache
+C:\Users\t6846\Desktop\3 курс\финал\курсачи\Курсовой по графике радио — копия\kursovaya\kursTower\obj\Debug\radio.CreateObject.resources
+C:\Users\t6846\Desktop\3 курс\финал\курсачи\Курсовой по графике радио — копия\kursovaya\kursTower\obj\Debug\radio.MainForm.resources
+C:\Users\t6846\Desktop\3 курс\финал\курсачи\Курсовой по графике радио — копия\kursovaya\kursTower\obj\Debug\kursach.Properties.Resources.resources
+C:\Users\t6846\Desktop\3 курс\финал\курсачи\Курсовой по графике радио — копия\kursovaya\kursTower\obj\Debug\radio.csproj.GenerateResource.cache
+C:\Users\t6846\Desktop\3 курс\финал\курсачи\Курсовой по графике радио — копия\kursovaya\kursTower\obj\Debug\radio.csproj.CoreCompileInputs.cache
+C:\Users\t6846\Desktop\3 курс\финал\курсачи\Курсовой по графике радио — копия\kursovaya\kursTower\obj\Debug\kursach.exe
+C:\Users\t6846\Desktop\3 курс\финал\курсачи\Курсовой по графике радио — копия\kursovaya\kursTower\obj\Debug\kursach.pdb

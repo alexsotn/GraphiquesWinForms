@@ -1,0 +1,32 @@
+E:\ЗАГРУЗКА\Kursovoy_po_grafike_radio__kopia\Курсовой по графике радио — копия\kursovaya\kursTower\bin\Debug\kursach.exe.config
+E:\ЗАГРУЗКА\Kursovoy_po_grafike_radio__kopia\Курсовой по графике радио — копия\kursovaya\kursTower\bin\Debug\kursach.exe
+E:\ЗАГРУЗКА\Kursovoy_po_grafike_radio__kopia\Курсовой по графике радио — копия\kursovaya\kursTower\bin\Debug\kursach.pdb
+E:\ЗАГРУЗКА\Kursovoy_po_grafike_radio__kopia\Курсовой по графике радио — копия\kursovaya\kursTower\obj\Debug\Kurs_sotn_pen.csproj.AssemblyReference.cache
+E:\ЗАГРУЗКА\Kursovoy_po_grafike_radio__kopia\Курсовой по графике радио — копия\kursovaya\kursTower\obj\Debug\Kurs_sotn_pen.CreateObject.resources
+E:\ЗАГРУЗКА\Kursovoy_po_grafike_radio__kopia\Курсовой по графике радио — копия\kursovaya\kursTower\obj\Debug\Kurs_sotn_pen.MainForm.resources
+E:\ЗАГРУЗКА\Kursovoy_po_grafike_radio__kopia\Курсовой по графике радио — копия\kursovaya\kursTower\obj\Debug\kursach.Properties.Resources.resources
+E:\ЗАГРУЗКА\Kursovoy_po_grafike_radio__kopia\Курсовой по графике радио — копия\kursovaya\kursTower\obj\Debug\Kurs_sotn_pen.csproj.GenerateResource.cache
+E:\ЗАГРУЗКА\Kursovoy_po_grafike_radio__kopia\Курсовой по графике радио — копия\kursovaya\kursTower\obj\Debug\Kurs_sotn_pen.csproj.CoreCompileInputs.cache
+E:\ЗАГРУЗКА\Kursovoy_po_grafike_radio__kopia\Курсовой по графике радио — копия\kursovaya\kursTower\obj\Debug\kursach.exe
+E:\ЗАГРУЗКА\Kursovoy_po_grafike_radio__kopia\Курсовой по графике радио — копия\kursovaya\kursTower\obj\Debug\kursach.pdb
+C:\Users\s1a9s\OneDrive\Рабочий стол\Kurs_sotn_pen\Kurs_sotn_pen\bin\Debug\kursach.exe.config
+C:\Users\s1a9s\OneDrive\Рабочий стол\Kurs_sotn_pen\Kurs_sotn_pen\bin\Debug\kursach.exe
+C:\Users\s1a9s\OneDrive\Рабочий стол\Kurs_sotn_pen\Kurs_sotn_pen\bin\Debug\kursach.pdb
+C:\Users\s1a9s\OneDrive\Рабочий стол\Kurs_sotn_pen\Kurs_sotn_pen\obj\Debug\Kurs_sotn_pen.CreateObject.resources
+C:\Users\s1a9s\OneDrive\Рабочий стол\Kurs_sotn_pen\Kurs_sotn_pen\obj\Debug\Kurs_sotn_pen.MainForm.resources
+C:\Users\s1a9s\OneDrive\Рабочий стол\Kurs_sotn_pen\Kurs_sotn_pen\obj\Debug\kursach.Properties.Resources.resources
+C:\Users\s1a9s\OneDrive\Рабочий стол\Kurs_sotn_pen\Kurs_sotn_pen\obj\Debug\Kurs_sotn_pen.csproj.GenerateResource.cache
+C:\Users\s1a9s\OneDrive\Рабочий стол\Kurs_sotn_pen\Kurs_sotn_pen\obj\Debug\Kurs_sotn_pen.csproj.CoreCompileInputs.cache
+C:\Users\s1a9s\OneDrive\Рабочий стол\Kurs_sotn_pen\Kurs_sotn_pen\obj\Debug\kursach.exe
+C:\Users\s1a9s\OneDrive\Рабочий стол\Kurs_sotn_pen\Kurs_sotn_pen\obj\Debug\kursach.pdb
+C:\Users\s1a9s\OneDrive\Рабочий стол\ГРАФИКА\КУРСОВОЙ\Kurs_sotn_pen\Kurs_sotn_pen\bin\Debug\kursach.exe.config
+C:\Users\s1a9s\OneDrive\Рабочий стол\ГРАФИКА\КУРСОВОЙ\Kurs_sotn_pen\Kurs_sotn_pen\bin\Debug\kursach.exe
+C:\Users\s1a9s\OneDrive\Рабочий стол\ГРАФИКА\КУРСОВОЙ\Kurs_sotn_pen\Kurs_sotn_pen\bin\Debug\kursach.pdb
+C:\Users\s1a9s\OneDrive\Рабочий стол\ГРАФИКА\КУРСОВОЙ\Kurs_sotn_pen\Kurs_sotn_pen\obj\Debug\Kurs_sotn_pen.csproj.AssemblyReference.cache
+C:\Users\s1a9s\OneDrive\Рабочий стол\ГРАФИКА\КУРСОВОЙ\Kurs_sotn_pen\Kurs_sotn_pen\obj\Debug\Kurs_sotn_pen.CreateObject.resources
+C:\Users\s1a9s\OneDrive\Рабочий стол\ГРАФИКА\КУРСОВОЙ\Kurs_sotn_pen\Kurs_sotn_pen\obj\Debug\Kurs_sotn_pen.MainForm.resources
+C:\Users\s1a9s\OneDrive\Рабочий стол\ГРАФИКА\КУРСОВОЙ\Kurs_sotn_pen\Kurs_sotn_pen\obj\Debug\kursach.Properties.Resources.resources
+C:\Users\s1a9s\OneDrive\Рабочий стол\ГРАФИКА\КУРСОВОЙ\Kurs_sotn_pen\Kurs_sotn_pen\obj\Debug\Kurs_sotn_pen.csproj.GenerateResource.cache
+C:\Users\s1a9s\OneDrive\Рабочий стол\ГРАФИКА\КУРСОВОЙ\Kurs_sotn_pen\Kurs_sotn_pen\obj\Debug\Kurs_sotn_pen.csproj.CoreCompileInputs.cache
+C:\Users\s1a9s\OneDrive\Рабочий стол\ГРАФИКА\КУРСОВОЙ\Kurs_sotn_pen\Kurs_sotn_pen\obj\Debug\kursach.exe
+C:\Users\s1a9s\OneDrive\Рабочий стол\ГРАФИКА\КУРСОВОЙ\Kurs_sotn_pen\Kurs_sotn_pen\obj\Debug\kursach.pdb

@@ -1,0 +1,22 @@
+C:\Users\Nikita\Desktop\3 курс 2 семстр методы итд\Курсовой по графике\kursTower\kursTower\obj\Debug\DrinksMachine.CreateObject.resources
+C:\Users\Nikita\Desktop\3 курс 2 семстр методы итд\Курсовой по графике\kursTower\kursTower\obj\Debug\DrinksMachine.MainForm.resources
+C:\Users\Nikita\Desktop\3 курс 2 семстр методы итд\Курсовой по графике\kursTower\kursTower\obj\Debug\kursTower.Properties.Resources.resources
+C:\Users\Nikita\Desktop\3 курс 2 семстр методы итд\Курсовой по графике\kursTower\kursTower\obj\Debug\DrinksMachine.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\3 курс 2 семстр методы итд\Курсовой по графике\kursTower\kursTower\obj\Debug\DrinksMachine.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\3 курс 2 семстр методы итд\Курсовой по графике\kursTower\kursTower\obj\Debug\kursTower.exe
+C:\Users\Nikita\Desktop\3 курс 2 семстр методы итд\Курсовой по графике\kursTower\kursTower\obj\Debug\kursTower.pdb
+C:\Users\Nikita\Desktop\3 курс 2 семстр методы итд\Курсовой по графике\kursTower\kursTower\bin\Debug\kursTower.exe.config
+C:\Users\Nikita\Desktop\3 курс 2 семстр методы итд\Курсовой по графике\kursTower\kursTower\bin\Debug\kursTower.exe
+C:\Users\Nikita\Desktop\3 курс 2 семстр методы итд\Курсовой по графике\kursTower\kursTower\bin\Debug\kursTower.pdb
+C:\Users\Nikita\Desktop\3 курс 2 семстр методы итд\Курсовой по графике\kursTower\kursTower\obj\Debug\DrinksMachine.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\3 курс 2 семстр методы итд\Курсовой по графике вентилятор\kursTower\kursTower\bin\Debug\kursTower.exe.config
+C:\Users\Nikita\Desktop\3 курс 2 семстр методы итд\Курсовой по графике вентилятор\kursTower\kursTower\bin\Debug\kursTower.exe
+C:\Users\Nikita\Desktop\3 курс 2 семстр методы итд\Курсовой по графике вентилятор\kursTower\kursTower\bin\Debug\kursTower.pdb
+C:\Users\Nikita\Desktop\3 курс 2 семстр методы итд\Курсовой по графике вентилятор\kursTower\kursTower\obj\Debug\DrinksMachine.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\3 курс 2 семстр методы итд\Курсовой по графике вентилятор\kursTower\kursTower\obj\Debug\DrinksMachine.CreateObject.resources
+C:\Users\Nikita\Desktop\3 курс 2 семстр методы итд\Курсовой по графике вентилятор\kursTower\kursTower\obj\Debug\DrinksMachine.MainForm.resources
+C:\Users\Nikita\Desktop\3 курс 2 семстр методы итд\Курсовой по графике вентилятор\kursTower\kursTower\obj\Debug\kursTower.Properties.Resources.resources
+C:\Users\Nikita\Desktop\3 курс 2 семстр методы итд\Курсовой по графике вентилятор\kursTower\kursTower\obj\Debug\DrinksMachine.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\3 курс 2 семстр методы итд\Курсовой по графике вентилятор\kursTower\kursTower\obj\Debug\DrinksMachine.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\3 курс 2 семстр методы итд\Курсовой по графике вентилятор\kursTower\kursTower\obj\Debug\kursTower.exe
+C:\Users\Nikita\Desktop\3 курс 2 семстр методы итд\Курсовой по графике вентилятор\kursTower\kursTower\obj\Debug\kursTower.pdb

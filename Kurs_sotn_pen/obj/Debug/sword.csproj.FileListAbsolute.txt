@@ -1,0 +1,22 @@
+C:\Users\Nikita\Desktop\Сделать курсачи графика $\Курсовой по графике меч\kursTower\kursTower\bin\Debug\kursach.exe.config
+C:\Users\Nikita\Desktop\Сделать курсачи графика $\Курсовой по графике меч\kursTower\kursTower\bin\Debug\kursach.exe
+C:\Users\Nikita\Desktop\Сделать курсачи графика $\Курсовой по графике меч\kursTower\kursTower\bin\Debug\kursach.pdb
+C:\Users\Nikita\Desktop\Сделать курсачи графика $\Курсовой по графике меч\kursTower\kursTower\obj\Debug\sword.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\Сделать курсачи графика $\Курсовой по графике меч\kursTower\kursTower\obj\Debug\sword.CreateObject.resources
+C:\Users\Nikita\Desktop\Сделать курсачи графика $\Курсовой по графике меч\kursTower\kursTower\obj\Debug\sword.MainForm.resources
+C:\Users\Nikita\Desktop\Сделать курсачи графика $\Курсовой по графике меч\kursTower\kursTower\obj\Debug\kursach.Properties.Resources.resources
+C:\Users\Nikita\Desktop\Сделать курсачи графика $\Курсовой по графике меч\kursTower\kursTower\obj\Debug\sword.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\Сделать курсачи графика $\Курсовой по графике меч\kursTower\kursTower\obj\Debug\sword.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\Сделать курсачи графика $\Курсовой по графике меч\kursTower\kursTower\obj\Debug\kursach.exe
+C:\Users\Nikita\Desktop\Сделать курсачи графика $\Курсовой по графике меч\kursTower\kursTower\obj\Debug\kursach.pdb
+C:\Users\Nikita\Desktop\Курсовой по графике радио\kursovaya\kursTower\bin\Debug\kursach.exe.config
+C:\Users\Nikita\Desktop\Курсовой по графике радио\kursovaya\kursTower\bin\Debug\kursach.exe
+C:\Users\Nikita\Desktop\Курсовой по графике радио\kursovaya\kursTower\bin\Debug\kursach.pdb
+C:\Users\Nikita\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\sword.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\sword.CreateObject.resources
+C:\Users\Nikita\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\sword.MainForm.resources
+C:\Users\Nikita\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\kursach.Properties.Resources.resources
+C:\Users\Nikita\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\sword.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\sword.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\kursach.exe
+C:\Users\Nikita\Desktop\Курсовой по графике радио\kursovaya\kursTower\obj\Debug\kursach.pdb
