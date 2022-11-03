@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="wheelchair.Camera" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAABACAIJAEAIAggAEQgAGiABAAEIAAEACACAIAABAo=</HashCode>
+      <FileName>Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelchair.CreateObject">
+    <Position X="13.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAWAAAACBAABAgIhKAIAQCBACAAAARAAAAQAAAAAE=</HashCode>
+      <FileName>CreateObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelchair.Box">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAECAAABAAAAAAAAKAAAEBAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>graphics\Box.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelchair.BoxTriangle">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAECAAABAAAAAAAAKAAAEBAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>graphics\BoxTriangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelchair.BoxTriangleBack">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAECAAABAAAAAAAAKAAAEBAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>graphics\BoxTriangleBack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelchair.Cylinder">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAMIAAABAAAAAAAAKAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>graphics\Cylinder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelchair.Face">
+    <Position X="15.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAACAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>graphics\Face.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelchair.Point3D">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAABAAAAAAAAADAAAAAAAAAAAAAAAAAYBE=</HashCode>
+      <FileName>graphics\Point3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelchair.Point3DSpherical">
+    <Position X="5.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIIAAJAAEAABAAgAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>graphics\Point3DSpherical.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelchair.Primitive" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIgAAAAAA=</HashCode>
+      <FileName>graphics\Primitive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelchair.Sphere">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAMIAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>graphics\Sphere.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelchair.Vector3D">
+    <Position X="15.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAEAcAUAAABAAAIAAAABAEAAAEAAYAE=</HashCode>
+      <FileName>graphics\Vector3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelchair.MainForm" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>1YmAeAEALbBGDpBgoKKC+Yb+BAiQIYoXiB3DyEAd3Fs=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelchair.MathHelpers">
+    <Position X="11.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAABEwAAAABCAAAAAgAEAAIAAA=</HashCode>
+      <FileName>MathHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelchair.Matrix">
+    <Position X="11.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAACAABAEAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Matrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelchair.ModificationMatrix">
+    <Position X="9.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAASAAAAAAAAAAAAAAADIAQIAAAAAAAA=</HashCode>
+      <FileName>ModificationMatrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelchair.PrimitiveWithName" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAIAAAQAAAAAABAAAEAQAoAAAAA=</HashCode>
+      <FileName>PrimitiveWithName.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelchair.Program" Collapsed="true">
+    <Position X="13.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelchair.Scene">
+    <Position X="17.5" Y="2.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="wheelchair.Scene.MODE" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Scene.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gAICAAAAAIAAQAAAAEARAgACBAogAQEAAEAASABARAA=</HashCode>
+      <FileName>Scene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelchair.SceneObject">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAQCAAAAABAAAAAIAIAAAAAAAABAAAEAQCgAAAAA=</HashCode>
+      <FileName>SceneObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wheelchair.wheelchairObject">
+    <Position X="3" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAIAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>wheelchairObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastBitmap" Collapsed="true">
+    <Position X="11.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABABAQFAAAAAAAAAAAAEAAAAABCAAAAEEQAAAAAQA=</HashCode>
+      <FileName>graphics\FastBitmap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.Properties.Resources">
+    <Position X="7.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.Properties.Settings" Collapsed="true">
+    <Position X="11.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

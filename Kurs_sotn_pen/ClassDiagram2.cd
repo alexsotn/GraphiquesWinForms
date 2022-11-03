@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="radio.Camera">
+    <Position X="11" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAABACAIJAEAIAggAEQgAGiABAAEIAAEACACAIAABAo=</HashCode>
+      <FileName>Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="radio.CreateObject">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAWAAAACBAABAgIhKAIAQCBACAAAARAAAAQAAAAAE=</HashCode>
+      <FileName>CreateObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="radio.Box">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAECAAABAAAAAAAAKAAAEBAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>graphics\Box.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="radio.BoxTriangle">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAECAAABAAAAAAAAKAAAEBAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>graphics\BoxTriangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="radio.BoxTriangleBack">
+    <Position X="9.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAECAAABAAAAAAAAKAAAEBAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>graphics\BoxTriangleBack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="radio.Cylinder">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAMIAAABAAAAAAAAKAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>graphics\Cylinder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="radio.Face">
+    <Position X="5.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAACAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>graphics\Face.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="radio.Point3D" Collapsed="true">
+    <Position X="4.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAABAAAAAAAAADAAAAAAAAAAAAAAAAAYBE=</HashCode>
+      <FileName>graphics\Point3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="radio.Point3DSpherical" Collapsed="true">
+    <Position X="4.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIIAAJAAEAABAAgAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>graphics\Point3DSpherical.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="radio.Primitive" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIgAAAAAA=</HashCode>
+      <FileName>graphics\Primitive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="radio.Sphere">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAMIAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>graphics\Sphere.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="radio.Spherepol">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAMIAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>graphics\Spherepol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="radio.Vector3D">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAEAcAUAAABAAAIAAAABAEAAAEAAYAE=</HashCode>
+      <FileName>graphics\Vector3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="radio.MainForm">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/4mBeQEYfbNGjpBgoKKC+Y7+RAiQIY4XiB3DyMwd3Hs=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="radio.MathHelpers">
+    <Position X="16.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAABEwAAAABCAAAAAgAEAAIAAA=</HashCode>
+      <FileName>MathHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="radio.Matrix">
+    <Position X="7.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAACAABAEAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Matrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="radio.ModificationMatrix">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAASAAAAAAAAAAAAAAADIAQIAAAAAAAA=</HashCode>
+      <FileName>ModificationMatrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="radio.PrimitiveWithName" Collapsed="true">
+    <Position X="6" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAIAAAQAAAAAABAAAEAQAoAAAAA=</HashCode>
+      <FileName>PrimitiveWithName.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="radio.Program" Collapsed="true">
+    <Position X="6" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="radio.PenObject">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="radio.SceneObject" FixedToPoint="true">
+      <Path>
+        <Point X="3.25" Y="4.5" />
+        <Point X="3.25" Y="4.125" />
+        <Point X="1.25" Y="4.125" />
+        <Point X="1.25" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAQAUAIIAABAAIAAAAAgAAAAAAAwCAAAAAAQAAAA=</HashCode>
+      <FileName>PenObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="radio.Scene">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="radio.Scene.MODE" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Scene.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gAICAAAAAIAAQAAAAEARAgACBAogAQEAAEAASABARAA=</HashCode>
+      <FileName>Scene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="radio.SceneObject">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAQCAAAAABAAAAAIAIAAAAAAAABAAAEAQCgAAAAA=</HashCode>
+      <FileName>SceneObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FastBitmap" Collapsed="true">
+    <Position X="4.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABABAQFAAAAAAAAAAAAEAAAAABCAAAAEEQAAAAAQA=</HashCode>
+      <FileName>graphics\FastBitmap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.Properties.Resources">
+    <Position X="4" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.Properties.Settings">
+    <Position X="14.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
